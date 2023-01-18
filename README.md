@@ -18,17 +18,17 @@ Changes made after the following contests
 - [Sentiment Update #2](https://app.sherlock.xyz/audits/contests/28)
 
 Oracles - https://github.com/sentimentxyz/oracle/pull/49
-1. GLP Oracle - Price oracle for staked GLP
-2. PLVGLPOracle - Modified version of ERC4626 Oracle to price PlvGLP
+- GLP Oracle - Price oracle for staked GLP
+- PLVGLPOracle - Modified version of ERC4626 Oracle to price PlvGLP
 
 Controllers - https://github.com/sentimentxyz/controller/pull/55
-1. BaseController - Acts as a no action controller, used to approve GMX Manager as spender
-2. RewardRouter - Controller for GMX reward router v1
-3. RewardRouterV2 - Controller for GMX reward router v2
-4. PLVGLPController - Controller for PlvGlp
+- BaseController - Acts as a no action controller, used to approve GMX Manager as spender
+- RewardRouter - Controller for GMX reward router v1
+- RewardRouterV2 - Controller for GMX reward router v2
+- PLVGLPController - Controller for PlvGlp
 
 Rage Trade DN Vault controller - https://github.com/sentimentxyz/controller/pull/52
-1. Controller to interact with rage trade jr vault (Risk on strategy)
+- Controller to interact with rage trade jr vault (Risk on strategy)
 
 # About Sentiment
 
